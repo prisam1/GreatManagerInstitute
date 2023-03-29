@@ -1,7 +1,7 @@
 import Home from "../src/Pages/Home" 
-import { Routes, Route} from "react-router-dom";
-import Login from "../src/Pages/Login"
-import Register from "../src/Pages/Register"
+// import { Routes, Route} from "react-router-dom";
+// import Login from "../src/Pages/Login"
+// import Register from "../src/Pages/Register"
 import  Header  from "../src/component/Header";
 import './App.css';
 

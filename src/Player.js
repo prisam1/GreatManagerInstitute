@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Player = (val) => {
+const Player = () => {
 
     return (
         <div>
@@ -8,9 +8,7 @@ const Player = (val) => {
                 <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" type="video/mp4" />
             </video>
 
-     <img src={val.link}></img>
- 
-        </div>
+             </div>
     )
 }
 

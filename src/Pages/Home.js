@@ -18,6 +18,7 @@ const HomePage = () => {
     .then(json => setResult(json));
   },[])
 
+  console.log(JSON.stringify(result))
   return (
     <div className="home">
       <div className="content">
