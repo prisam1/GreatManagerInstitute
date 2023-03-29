@@ -1,0 +1,17 @@
+
+
+.content{
+    display: flex;
+    flex-direction: row;
+}
+
+.right{
+
+    margin-top:6rem;
+    margin-left:-4rem;
+}
+
+.left{
+    margin-top: 3rem;
+    margin-right:6rem;
+}
